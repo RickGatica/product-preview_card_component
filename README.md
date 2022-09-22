@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-QeYrCZWydc)
-- Live Site URL: [Add live site URL here](https://product-preview-card-component-ruddy.vercel.app/)
+- [Solution URL](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-QeYrCZWydc)
+- [Live Site URL](https://product-preview-card-component-ruddy.vercel.app/)
 
 ### Built with
 
