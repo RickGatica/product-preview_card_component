@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-QeYrCZWydc)
-- [Live Site URL](https://product-preview-card-component-ruddy.vercel.app/)
+- [Solution](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-QeYrCZWydc)
+- [Live Site](https://product-preview-card-component-ruddy.vercel.app/)
 
 ### Built with
 
@@ -43,6 +43,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://github.com/RickGatica/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/RickGatica)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/ricardo-andr%C3%A9s-gatica-collarte-46b4291aa/)
+- [Website](https://github.com/RickGatica/)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/RickGatica)
+- [LinkedIn](https://www.linkedin.com/in/ricardo-andr%C3%A9s-gatica-collarte-46b4291aa/)
